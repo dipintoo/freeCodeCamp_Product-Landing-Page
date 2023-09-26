@@ -1,0 +1,448 @@
+/* BASIC CONFIGURATIONS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.4;
+  background-color: #0d0e11;
+}
+
+h2 {
+  font-size: clamp(3rem, 6vw, 4rem);
+  font-weight: 400;
+  /* 	letter-spacing: -3px; */
+  line-height: 1.2;
+  margin-bottom: -1rem;
+  color: white;
+}
+
+h3 {
+  padding-top: 2rem;
+  text-align: center;
+  font-size: clamp(2rem, 4vw, 2.2rem);
+  font-weight: 400;
+  color: #0d0e11;
+  margin-bottom: 3rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #0d0e11;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: white;
+}
+
+p {
+  font-weight: 300;
+  color: #747781;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+ul {
+  display: flex;
+  gap: 1.4rem;
+  list-style: none;
+}
+
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: #cff245;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  border: none;
+  background-color: #eee;
+  margin-block: 10px;
+}
+
+.logo {
+  width: 100%;
+  height: 2rem;
+  width: 2rem;
+  background-color: #cff245;
+  padding: 4px;
+  border-radius: 1rem;
+}
+
+section {
+  padding: clamp(3rem, 4vw, 6rem) clamp(1rem, 4vw, 3rem);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+/* INPUT FIELD */
+
+form {
+  display: flex;
+  gap: 0.4rem;
+  justify-content: center;
+  min-width: 64%;
+}
+
+input {
+  padding-inline-start: 1rem;
+  border: none;
+  outline: #cff245;
+  background-color: #222;
+  color: white;
+  width: 100%;
+}
+
+/* BUTTON */
+
+input,
+.btn {
+  font: inherit;
+  height: 3rem;
+  border-radius: 0.6rem;
+}
+
+.btn {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: none;
+  padding-inline: 1em;
+  background-color: #cff245;
+  font-weight: 500;
+  color: black;
+  width: 10rem;
+}
+
+.btn:hover {
+  background-color: #e1ff6b;
+}
+
+/* HEADER NAV */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem clamp(2rem, 4vw, 4rem);
+  position: fixed;
+  width: 100%;
+  background-color: #0d0e11;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+/* HERO SECTION */
+
+#hero div {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  min-height: 640px;
+}
+
+#hero p {
+  font-size: clamp(0.8rem, 4.6vw, 1.2rem);
+  font-weight: 300;
+  letter-spacing: -0.4px;
+  line-height: 1.6;
+  max-width: 600px;
+  color: #cbcbcb;
+}
+
+/* FEATURES SECTION */
+
+#features {
+  background-color: #f6f7fa;
+  border-radius: 2rem 2rem 0 0;
+}
+
+.features-top {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.feature {
+  display: grid;
+  background-color: white;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.feature .picture {
+  display: flex;
+}
+
+.picture-1 {
+  width: 64%;
+  margin: 0 auto;
+}
+
+.picture-2 {
+  width: 100%;
+  margin-left: 2rem;
+}
+
+.picture-3 {
+  width: 60%;
+  margin-inline: auto;
+  margin-block: 2rem;
+}
+
+.feature .info {
+  display: grid;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.features-down {
+  text-align: center;
+  justify-items: center;
+  padding: 2rem;
+  gap: 1rem;
+}
+
+.features-down p {
+  max-width: 600px;
+}
+
+/* VIDEO SECTION */
+
+#how-it-works {
+  background-color: #f6f7fa;
+}
+
+.video {
+  display: flex;
+  gap: 2.4rem;
+  align-items: center;
+}
+
+.description p {
+  max-width: 680px;
+}
+
+.description h3 {
+  text-align: left;
+  margin-bottom: 1rem;
+  padding-top: 0;
+}
+
+iframe {
+  display: flex;
+  width: 100%;
+  height: 320px;
+  margin: 0 auto;
+  justify-content: center;
+  border-radius: 1rem;
+}
+
+/* PLAN SECTION */
+
+#pricing {
+  background-color: #f6f7fa;
+  border-radius: 0 0 2rem 2rem;
+}
+
+.group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  gap: 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#black {
+  background-color: #0d0e11;
+  color: white;
+}
+
+#black h3 {
+  color: white;
+}
+
+#black ol hr {
+  background-color: #3b3b3b;
+}
+
+.products {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.products h3 {
+  padding-top: 0;
+  margin-bottom: -4px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.products ol {
+  margin-block: 2rem;
+}
+
+.products .btn {
+  width: 100%;
+}
+
+/* FOOTER SECTION */
+
+footer {
+  display: grid;
+  color: #747781;
+  gap: 2rem;
+}
+
+footer hr {
+  background-color: #747781;
+}
+
+.top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: clamp(1rem, 2vw, 2rem);
+}
+
+.bottom {
+  display: grid;
+  gap: 1rem;
+}
+
+.grid ul {
+  display: block;
+  line-height: 2;
+  margin-top: 1rem;
+}
+
+/* MEDIA QUERY */
+
+@media (320px <=width <=900px) {
+  #features {
+    border-radius: 0;
+  }
+
+  .features-top {
+    grid-template-columns: 1fr;
+  }
+
+  .features-down {
+    text-align: left;
+    justify-items: start;
+  }
+
+  .picture-3 {
+    width: 100%;
+  }
+
+  .video {
+    display: grid;
+    width: 90%;
+  }
+
+  .description h3,
+  .description p {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .description p {
+    margin-top: 1rem;
+  }
+
+  #pricing {
+    border-radius: 0;
+  }
+
+  .group {
+    grid-template-columns: 1fr;
+  }
+
+  .top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 4rem;
+    column-gap: 8rem;
+    margin: 0 auto;
+  }
+
+  .bottom {
+    text-align: center;
+  }
+}
+
+@media (320px <=width <=520px) {
+  h2 {
+    max-width: 400px;
+  }
+
+  form {
+    flex-wrap: wrap;
+    gap: 1rem;
+    min-width: 84%;
+  }
+
+  header {
+    display: grid;
+    justify-items: center;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .logo-top {
+    display: none;
+  }
+
+  iframe {
+    height: clamp(180px, 4vw, 200px);
+  }
+
+  .description p {
+    max-width: clamp(480px, 10vw, 520px);
+  }
+
+  .top {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    text-align: center;
+    justify-items: center;
+  }
+}

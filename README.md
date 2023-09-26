@@ -1,10 +1,10 @@
-# Product Landing Page Project
+# 4/5 Product Landing Page Project
 
 Selamat datang di Product Landing Page Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
 ## Sertifikasi Responsive Web Design
 
-Project ini adalah yang ketiga dari lima project yang harus kamu kerjakan dan lolos pengujian dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Semangat belajarnya ya dan semoga sukses dalam perjalanan kamu meraih sertifikat Responsive Web Design dari freeCodeCamp!
+Project ini adalah yang keempat dari lima project yang harus kamu kerjakan dan lolos pengujian dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Semangat belajarnya ya dan semoga sukses dalam perjalanan kamu meraih sertifikat Responsive Web Design dari freeCodeCamp!
 
 ### Persiapan yang Dianjurkan
 
@@ -66,7 +66,7 @@ Sekarang... Ayo kita mulai!
 
 Kamu bisa ngoding dan melakukan testing langsung di [Product Landing Page project build](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page).  
 
-Note: Be sure to add `<link rel="stylesheet" href="styles.css">` yah.
+Note: Be sure to add `<link rel="stylesheet" href="styles.css">` ya.
 
 ## Contoh Proyek
 

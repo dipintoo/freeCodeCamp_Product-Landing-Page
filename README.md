@@ -1,4 +1,4 @@
-# 4/5 Product Landing Page Project
+# [4/5] Product Landing Page Project
 
 Selamat datang di Product Landing Page Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 

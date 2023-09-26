@@ -63,11 +63,11 @@ Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam
 
 ## Coding dan Testing
 
-Kamu bisa ngoding dan melakukan testing langsung di https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form.
+Kamu bisa ngoding dan melakukan testing langsung di [Product Landing Page project build](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page).
 
 ## Contoh Proyek
 
-Kamu bisa melihat contoh proyek Product Landing Page dari freeCodeCamp di [https://survey-form.freecodecamp.rocks](https://product-landing-page.freecodecamp.rocks/).  
+Kamu bisa melihat contoh proyek Product Landing Page dari freeCodeCamp di https://product-landing-page.freecodecamp.rocks/.  
 
 Kalo mau lihat Hasil codingan dan desain saya bisa click link di About ya 😀
 

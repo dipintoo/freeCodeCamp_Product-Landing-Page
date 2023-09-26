@@ -8,7 +8,9 @@ Project ini adalah yang ketiga dari lima project yang harus kamu kerjakan dan lo
 
 ### Persiapan yang Dianjurkan
 
-Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, responsif desain, dan flexbox. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya. Ayo kita mulai!
+Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, responsif desain, dan flexbox. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya.  
+
+Sekarang... Ayo kita mulai!
 
 ## User Stories
 

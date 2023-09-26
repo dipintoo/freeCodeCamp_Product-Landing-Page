@@ -66,7 +66,7 @@ Sekarang... Ayo kita mulai!
 
 Kamu bisa ngoding dan melakukan testing langsung di [Product Landing Page project build](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page).  
 
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> yah.
+Note: Be sure to add `<link rel="stylesheet" href="styles.css">` yah.
 
 ## Contoh Proyek
 

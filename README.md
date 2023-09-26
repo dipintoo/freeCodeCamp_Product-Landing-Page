@@ -8,7 +8,7 @@ Project ini adalah yang keempat dari lima project yang harus kamu kerjakan dan l
 
 ### Persiapan yang Dianjurkan
 
-Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, responsif desain, dan flexbox. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya.  
+Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, media query, dan flexbox. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya.  
 
 Sekarang... Ayo kita mulai!
 
@@ -24,11 +24,11 @@ Sekarang... Ayo kita mulai!
 
 ### 3. Navigasi
 
-- Di dalam elemen `<header id="header">`, Anda harus melihat sebuah elemen `<nav>` dengan ID yang sesuai, yaitu `<nav id="nav-bar">`.
+- Di dalam elemen `<header id="header">`, Anda harus membuat sebuah elemen `<nav>` dengan ID yang sesuai, yaitu `<nav id="nav-bar">`.
 
 ### 4. Tautan Navigasi
 
-- Di dalam elemen `<nav id="nav-bar">`, Anda harus melihat setidaknya tiga elemen yang dapat diklik (misalnya, tombol) dengan kelas yang sesuai, yaitu `.nav-link`.
+- Di dalam elemen `<nav id="nav-bar">`, Anda harus membuat setidaknya tiga elemen yang dapat diklik (misalnya, tombol) dengan kelas yang sesuai, yaitu `.nav-link`.
 - Ketika Anda mengklik salah satu tombol `.nav-link` dalam elemen `<nav id="nav-bar">`, Anda akan dibawa ke bagian yang sesuai dari halaman landing.
 
 ### 5. Video Produk

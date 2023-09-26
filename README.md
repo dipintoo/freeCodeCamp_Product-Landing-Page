@@ -1,15 +1,14 @@
-# Proyek Product Landing Page
+# Product Landing Page Project
 
-Selamat datang di proyek Product Landing Page! Proyek ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari proyek ini.
+Selamat datang di Product Landing Page Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
 ## Sertifikasi Responsive Web Design
 
-Proyek ini adalah langkah ketiga dari lima proyek yang harus dikerjakan dan lolos pengujian dalam perjalanan kamu menuju sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp. Selamat belajar dan semoga sukses dalam perjalanan kamu untuk meraih sertifikasi Responsive Web Design!
+Project ini adalah yang ketiga dari lima project yang harus kamu kerjakan dan lolos pengujian dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Semangat belajarnya ya dan semoga sukses dalam perjalanan kamu meraih sertifikat Responsive Web Design dari freeCodeCamp!
 
 ### Persiapan yang Dianjurkan
 
-Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam kursus [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar seperti HTML, CSS, responsif desain, dan flexbox.
-Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan lima proyek yang ada. 
+Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, responsif desain, dan flexbox. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya. Ayo kita mulai!
 
 ## User Stories
 
@@ -67,7 +66,7 @@ Kamu bisa ngoding dan melakukan testing langsung di [Product Landing Page projec
 
 ## Contoh Proyek
 
-Kamu bisa melihat contoh proyek Product Landing Page dari freeCodeCamp di https://product-landing-page.freecodecamp.rocks/.  
+Kamu bisa melihat contoh project Product Landing Page dari freeCodeCamp di https://product-landing-page.freecodecamp.rocks/.  
 
 Kalo mau lihat Hasil codingan dan desain saya bisa click link di About ya 😀
 
